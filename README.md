@@ -1,2 +1,2 @@
 # messenger
-Messenger coded in ReactJS
+Messenger build with ReactJS and Realtime Database (Firebase)
