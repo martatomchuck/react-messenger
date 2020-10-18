@@ -1,0 +1,16 @@
+.message {
+  text-align: left;
+  background: #ecf0f1;
+  margin: 4px;
+  padding: 6px;
+  border-radius: 4px;
+}
+
+.message--user {
+  font-weight: 800;
+  margin-bottom: 0.4em;
+}
+
+.message--time {
+  font-weight: normal;
+}
