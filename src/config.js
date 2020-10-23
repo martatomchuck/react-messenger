@@ -1,17 +1,17 @@
-// import firebase from "firebase";
+import firebase from "firebase";
 
-// const firebaseConfig = {
-//   apiKey: "AIzaSyDsPUq8LBZLucYMd0bsEZVJt-GTxDHrCoc",
-//   authDomain: "komunikator-234c6.firebaseapp.com",
-//   databaseURL: "https://komunikator-234c6.firebaseio.com",
-//   projectId: "komunikator-234c6",
-//   storageBucket: "komunikator-234c6.appspot.com",
-//   messagingSenderId: "127466549997",
-//   appId: "1:127466549997:web:db2de31911f43e71b052e4"
-// };
-// // Initialize Firebase
-// firebase.initializeApp(firebaseConfig);
+const firebaseConfig = {
+    apiKey: "AIzaSyAWKaT-rphcjSIcmZyaBKOEmdjEIjnmrDI",
+    authDomain: "messenger-7ab47.firebaseapp.com",
+    databaseURL: "https://messenger-7ab47.firebaseio.com",
+    projectId: "messenger-7ab47",
+    storageBucket: "messenger-7ab47.appspot.com",
+    messagingSenderId: "53697091241",
+    appId: "1:53697091241:web:dd262dc25e3cdcb83f7bb8"
+};
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
 
-// const db = firebase.database();
+const db = firebase.database();
 
-// export default db;
+export default db;
