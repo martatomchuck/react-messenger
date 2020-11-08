@@ -1,2 +1,2 @@
 # Messenger - online communicator
-Messenger built with ReactJS and Realtime Database (Firebase)
+Messenger Proof-of-Concept built with ReactJS and Realtime Database (Firebase)
